@@ -10,4 +10,8 @@
 # jenkins/jenkins:2.452.4-jdk11
 # truevoly/oracle-12c
 # elasticsearch:6.5.0
-redis
+# redis
+calico/node:v3.15.1
+calico/pod2daemon-flexvol:v3.15.1
+calico/kube-controllers:v3.15.1
+calico/cni:v3.15.1
