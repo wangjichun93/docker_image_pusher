@@ -15,4 +15,5 @@
 # calico/pod2daemon-flexvol:v3.15.1
 # calico/kube-controllers:v3.15.1
 # calico/cni:v3.15.1
-rancher/rancher
+# rancher/rancher
+sonarqube
