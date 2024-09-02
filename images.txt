@@ -17,4 +17,4 @@
 # calico/cni:v3.15.1
 # rancher/rancher
 # sonarqube
-postgresql:latest
+docker.io/postgres
