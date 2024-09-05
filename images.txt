@@ -17,4 +17,5 @@
 # calico/cni:v3.15.1
 # rancher/rancher
 # sonarqube
-docker.io/postgres
+# docker.io/postgres
+docker.io/rabbitmq:3.7.8-management
