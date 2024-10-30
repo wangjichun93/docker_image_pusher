@@ -18,4 +18,5 @@
 # rancher/rancher
 # sonarqube
 # docker.io/postgres
-docker.io/rabbitmq:3.7.8-management
+# docker.io/rabbitmq:3.7.8-management
+mysql:5.7.32
