@@ -19,4 +19,5 @@
 # sonarqube
 # docker.io/postgres
 # docker.io/rabbitmq:3.7.8-management
-mysql:5.7.32
+# mysql:5.7.32
+rabbitmq
