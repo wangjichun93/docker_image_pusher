@@ -22,4 +22,4 @@
 # mysql:5.7.32
 # rabbitmq
 # registry.k8s.io/ingress-nginx/controller:v1.3.0
-postgresql
+rabbitmq:3.7.7-management
