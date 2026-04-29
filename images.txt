@@ -26,4 +26,5 @@
 # bitnami/postgresql:17.5.0-debian-12-r14
 # node:22.12
 # ollama/ollama
-docker.io/postgres:17.0
+# docker.io/postgres:17.0
+truevoly/oracle-12c:latest
